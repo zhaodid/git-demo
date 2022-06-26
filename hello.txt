@@ -6,3 +6,4 @@ master branch upload
 hot-fix upload
 meger conflict master
 我在gtihub上进行修改了
+clone下来并进行修改
